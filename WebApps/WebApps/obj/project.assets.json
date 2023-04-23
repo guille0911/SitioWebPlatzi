@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\CursoWebApps\\WebApps\\WebApps\\WebApps\\WebApps.csproj",
+      "projectUniqueName": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\SitioWebPlatzi\\WebApps\\WebApps\\WebApps.csproj",
       "projectName": "WebApps",
-      "projectPath": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\CursoWebApps\\WebApps\\WebApps\\WebApps\\WebApps.csproj",
+      "projectPath": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\SitioWebPlatzi\\WebApps\\WebApps\\WebApps.csproj",
       "packagesPath": "C:\\Users\\guill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\CursoWebApps\\WebApps\\WebApps\\WebApps\\obj\\",
+      "outputPath": "C:\\Users\\guill\\Documents\\Platzi\\In progress\\SitioWebPlatzi\\WebApps\\WebApps\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
